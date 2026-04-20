@@ -26,7 +26,7 @@ background: linear-gradient(145deg, rgba(15,32,39,0.95), rgba(44,83,100,0.95));
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 - 🔬 Working at the intersection of **AI + ML**
 - 🧪 Focused on **Protein–Ligand Interaction, Drug Discovery & MultiLevel Modeling**
 - 🧠 Specialized in **Structural Bioinformatics**
@@ -88,28 +88,25 @@ background: linear-gradient(145deg, rgba(15,32,39,0.95), rgba(44,83,100,0.95));
 ---
 
 ### 📊 Machine Learning Algorithms
-![RandomForest](https://img.shields.io/badge/RandomForest-1a0d0d?style=for-the-badge&logoColor=ffffff)
-![XGBoost](https://img.shields.io/badge/XGBoost-3b0f0f?style=for-the-badge&logoColor=ffffff)
-![SVM](https://img.shields.io/badge/SVM-5c1212?style=for-the-badge&logoColor=ffffff)
-![KNN](https://img.shields.io/badge/KNN-7a1c1c?style=for-the-badge&logoColor=ffffff)
-![LinearRegression](https://img.shields.io/badge/LinearRegression-9e2a2b?style=for-the-badge&logoColor=ffffff)
+![RandomForest](https://img.shields.io/badge/RandomForest-1a0f05?style=for-the-badge&logoColor=ffffff)
+![XGBoost](https://img.shields.io/badge/XGBoost-3b1f07?style=for-the-badge&logoColor=ffffff)
+![SVM](https://img.shields.io/badge/SVM-5c2f0a?style=for-the-badge&logoColor=ffffff)
+![KNN](https://img.shields.io/badge/KNN-8b4513?style=for-the-badge&logoColor=ffffff)
+![LinearRegression](https://img.shields.io/badge/LinearRegression-ff8c00?style=for-the-badge&logoColor=000000)
 
 ---
 
 ### 🤖 Deep Learning
-![NeuralNetworks](https://img.shields.io/badge/NeuralNetworks-1a0f0f?style=for-the-badge&logoColor=ffffff)
-![CNN](https://img.shields.io/badge/CNN-3b0a0a?style=for-the-badge&logoColor=ffffff)
-![RNN](https://img.shields.io/badge/RNN-5c0f0f?style=for-the-badge&logoColor=ffffff)
-![LSTM](https://img.shields.io/badge/LSTM-8b1a1a?style=for-the-badge&logoColor=ffffff)
-![Transformers](https://img.shields.io/badge/Transformers-b22222?style=for-the-badge&logoColor=ffffff)
+![NeuralNetworks](https://img.shields.io/badge/NeuralNetworks-140909?style=for-the-badge&logoColor=ffffff)
+![CNN](https://img.shields.io/badge/CNN-2a0d0d?style=for-the-badge&logoColor=ffffff)
+![RNN](https://img.shields.io/badge/RNN-401111?style=for-the-badge&logoColor=ffffff)
+![LSTM](https://img.shields.io/badge/LSTM-661515?style=for-the-badge&logoColor=ffffff)
+![Transformers](https://img.shields.io/badge/Transformers-8b1a1a?style=for-the-badge&logoColor=ffffff)
+![GenerativeAI](https://img.shields.io/badge/GenerativeAI-a32020?style=for-the-badge&logoColor=ffffff)
 
----
-
-### ⚡ Generative AI
-![GenerativeAI](https://img.shields.io/badge/GenerativeAI-1a0f05?style=for-the-badge&logoColor=ffffff)
-![LLMs](https://img.shields.io/badge/LLMs-3b1f07?style=for-the-badge&logoColor=ffffff)
-![GANs](https://img.shields.io/badge/GANs-5c2f0a?style=for-the-badge&logoColor=ffffff)
-![PromptEngineering](https://img.shields.io/badge/PromptEngineering-ff8c00?style=for-the-badge&logoColor=000000)
+![LLMs](https://img.shields.io/badge/LLMs-b22222?style=for-the-badge&logoColor=ffffff)
+![GANs](https://img.shields.io/badge/GANs-cc3333?style=for-the-badge&logoColor=ffffff)
+![PromptEngineering](https://img.shields.io/badge/PromptEngineering-ff4d4d?style=for-the-badge&logoColor=000000)
 
 ---
 
@@ -140,9 +137,9 @@ background: linear-gradient(145deg, rgba(15,32,39,0.95), rgba(44,83,100,0.95));
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tithi-thakur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tithi-thakur&show_icons=true&hide_border=true&bg_color=0A57FE&title_color=FFD700&text_color=FFF3B0&icon_color=FFD700&cache_seconds=1800" height="150"/>
   
-  <img src="https://streak-stats.demolab.com?user=tithi-thakur&theme=tokyonight&hide_border=true&background=0f2027" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=tithi-thakur&hide_border=true&background=0A57FE&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFF3B0&dates=FFF3B0" height="150"/>
 </p>
 
 ---
@@ -150,9 +147,10 @@ background: linear-gradient(145deg, rgba(15,32,39,0.95), rgba(44,83,100,0.95));
 ## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tithi-thakur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tithi-thakur&layout=compact&hide_border=true&bg_color=0A57FE&title_color=FFD700&text_color=FFF3B0&cache_seconds=1800" />
 </p>
 
+---
 ---
 
 </td>
